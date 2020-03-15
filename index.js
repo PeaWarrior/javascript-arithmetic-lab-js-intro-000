@@ -18,6 +18,10 @@ function multiply(a,b){
   return a*b
 }
 
-function divie (a,b){
+function divide (a,b){
   return a/b
+}
+
+function increment (n){
+  return n++
 }
